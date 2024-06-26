@@ -1,24 +1,8 @@
 1234567890
-<<<<<<< HEAD
 我是master
 啊啊啊啊啊啊啊
-=======
 abcabc
 0987654321
 我是branch
->>>>>>> b1
-dkfjsljfslkjfls fs
-sdjfslkf ls
-sdljfslf ssd;jfjslf
-sdflskjfs
-jlsjdfkls
-jlsjflks 
-ljsdklfjsdl 
-
-jklsjflks
-jslkkjfklsd
-jljsdklfjs
-asfjlksj
-sdddd
 -----------------------------
 jojo
